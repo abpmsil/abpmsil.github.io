@@ -12,3 +12,7 @@ List:
 ### Something else
 
 Test.
+
+|   fig1   |   fig2   |
+|:--------:|:--------:|
+| caption1 | caption2 |
