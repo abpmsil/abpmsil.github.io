@@ -11,6 +11,7 @@ These AI-empowered, trustworthy, and process-aware systems continuously reason a
 with the goal of adapting and improving one or more processes according to various indicators. 
 ABPMSs are the backbone necessary to realize the vision of the enterprise of the future, enabling organizations to gradually shift their process management, advancing along the six levels of autonomous process execution management[^2].
 
+{: style="text-align: justify"}
 Achieving a synergetic combination between AI and PM poses foundational, conceptual, and technical challenges related to the integration of symbolic and sub-symbolic AI techniques, and how to infuse them within PM. At the same time, delegating autonomy brings pressing requirements on the trustworthiness of such systems, and on their ability to interact with human experts and explain their own behavior. 
 
 
