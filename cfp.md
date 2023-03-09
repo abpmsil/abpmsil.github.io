@@ -10,7 +10,7 @@ Paper Notification
 Workshop 	
 Camera Ready 
 
-Topics of Interest:
+Topics of interest for submission include, but are not limited to:
 - multi-perspective process models (including data, time, resources)
 - declarative processes
 - explainable and trustworthy AI for process management and process mining
