@@ -20,6 +20,7 @@ author: PMAI'23 Workshop
 ###############################################
 
 navbar-links:
+  Home: "index"
   Call for papers: "cfp"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
