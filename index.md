@@ -4,6 +4,7 @@ title: PMAI23@IJCAI
 subtitle: 2nd International Workshop on Process Management in the AI era
 ---
 
+{: style="text-align: justify"}
 Process Management (PM) is a multidisciplinary field that combines insights from operations management, computer science, 
 and data science (cf. process mining). 
 The rapid development of artificial intelligence (AI) techniques is leading to the creation of a new generation of information systems that can "augment" PM, 
