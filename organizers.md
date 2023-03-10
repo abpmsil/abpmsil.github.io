@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop Organizers
+title: Organizers
 ---
 
 ## Program Chairs
