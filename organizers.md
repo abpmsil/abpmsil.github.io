@@ -1,4 +1,4 @@
-## Program Chairs:
+## Program Chairs
 - Antonella Guzzo - [email](mailto:antonella.guzzo@unical.it) - University of Calabria, Italy 
 - Pnina Soffer - [email](mailto:spnina@is.haifa.ac.il) - Haifa University, Israel
 - Andrea Marrella - [email](mailto:marrella@diag.uniroma1.it) - Sapienza University of Rome, Italy
