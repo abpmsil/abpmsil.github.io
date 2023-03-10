@@ -23,6 +23,8 @@ navbar-links:
   Home: "index"
   Organizers: "organizers"
   Call for papers: "cfp"
+  Keynote: "keynote"
+  Program: "program"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
