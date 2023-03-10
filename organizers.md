@@ -1,3 +1,8 @@
+---
+layout: page
+title: Workshop Organizers
+---
+
 ## Program Chairs
 - Antonella Guzzo - [email](mailto:antonella.guzzo@unical.it) - University of Calabria, Italy 
 - Pnina Soffer - [email](mailto:spnina@is.haifa.ac.il) - Haifa University, Israel
