@@ -5,6 +5,12 @@ title: Call for Papers
 
 ## Important dates 
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
 |----
 | Abstract Submission       | May 1, 2023              |
 | Paper Submission Deadline | May 8, 2023              |
