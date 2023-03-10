@@ -27,3 +27,24 @@ Topics of interest for submission include, but are not limited to:
 - multi-objective optimization, decision-making, and continuous improvement
 - goal and key performance indicator alignment in process management 
 - causal reasoning and process management 
+
+## Submission Details
+
+Submissions must be written in English, prepared using the new CEUR-ART 1-column style, formatted in PDF and submitted via [EasyChair]().
+
+An Overleaf template for LaTeX users is available [here](). Alternatively, you can [download]() an offline version with the style files.
+
+PMAI 2023 invites submissions of research, industry and application contributions as well as software demonstrations.
+
+There are two submission formats:
+
+- _Regular papers_ (11-12 pages including an appropriate number of references): must contain enough substance that they can be cited in other publications and may not have appeared before.
+- _Extended Abstracts_ (2-4 pages including an appropriate number of references): results and ideas of interest to the PMAI audience, including position papers, system and application descriptions and presentations of preliminary results, overview of papers accepted at another conference or which you submitted or plan to submit to another conference. In the latter case, extended abstracts must clearly state the venue where the paper has been accepted or submitted alongside its status.
+
+All accepted papers are expected to be presented at the conference and **at least one author is required to register and attend the conference.**
+
+Submissions should be single blind so the names of the authors will be visible to the reviewers and should be indicated on the submitted files. In justified cases, if you wish your submission to be handled anonymously (i.e., double-blind) please send us an [e-mail](mailto:liorli@il.ibm.com) explaining the reasons. You will receive instructions on how to proceed.
+
+## Camera Ready Preparation
+
+The proceedings will be submitted to CEUR-WS.org for online publication. Due to a change of policy at CEUR-WS.org only Regular papers will be published under a CC BY 4.0 license that will be included in an open-access proceedings volume of CEUR Workshop Proceedings, indexed by both Scopus and DBLP. Extended Abstracts are no longer indexed by dblp.org and the case of an abstract of a pre-published paper may require a permission by the copyright holder.
