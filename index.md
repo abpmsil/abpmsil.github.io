@@ -1,6 +1,6 @@
 ---
 layout: home
-title: PMAIIII23 @IJCAI
+title: PMAI23 @IJCAI
 ---
 ## 2nd International Workshop on Process Management in the AI era
 
