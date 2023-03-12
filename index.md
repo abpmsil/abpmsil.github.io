@@ -9,7 +9,7 @@ Process Management (PM) is a multidisciplinary field that combines insights from
 and data science (cf. process mining). The rapid development of artificial intelligence (AI) techniques is leading to the creation of a new generation of information systems that can "augment" PM, making them more autonomous, adaptive, intelligent, and self-optimizing. Such systems are recently referred to as [AI-augmented BPM systems](https://doi.org/10.1145/3576047) (ABPMS). 
 These AI-empowered, trustworthy, and process-aware systems continuously reason and act on data within a set of constraints, 
 with the goal of adapting and improving one or more processes according to various indicators. 
-ABPMSs are the backbone necessary to realize the vision of the enterprise of the future, enabling organizations to gradually shift their process management, advancing along the six levels of autonomous process execution management[^2].
+ABPMSs are the backbone necessary to realize the vision of the enterprise of the future, enabling organizations to gradually shift their process management, advancing along the [six levels of autonomous process execution management](https://arxiv.org/abs/2204.11328).
 
 {: style="text-align: justify"}
 Achieving a synergetic combination between AI and PM poses foundational, conceptual, and technical challenges related to the integration of symbolic and sub-symbolic AI techniques, and how to infuse them within PM. At the same time, delegating autonomy brings pressing requirements on the trustworthiness of such systems, and on their ability to interact with human experts and explain their own behavior. 
@@ -20,7 +20,6 @@ This workshop aims at bringing together researchers from different research disc
 {: style="text-align: justify"}
 We welcome scientists, practitioners, and students from academic and industrial communities who are interested in the synergy between AI and PM, to participate and submit their original work. We welcome not only contributions that empower PM with AI techniques, but also contributions that exploit their combination to solve more general problems in AI.
 
-[^2]: https://arxiv.org/abs/2204.11328
 [^3]: Gamble, R. 1998. Proceedings of the AAAI 1998 Workshop on Using AI for Knowledge Management and Business Process Re-engineering.
 [^4]: Drabble, B.; and Jarvis, P. 1999. Proceedings of the AAAI1999 Workshop on Agent-Based Systems in the Business Context.
 [^5]: Gil, Y. 2020. Will AI write the scientific papers of the future?
