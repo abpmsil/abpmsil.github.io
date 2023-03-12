@@ -3,8 +3,6 @@ layout: page
 title: Program
 ---
 
-## Program
-
 <table style="font-size:80%">
   <tbody>
     <tr style="background-color:#FEF2CB">
