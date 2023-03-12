@@ -21,7 +21,7 @@ This workshop aims at bringing together researchers from different research disc
 We welcome scientists, practitioners, and students from academic and industrial communities who are interested in the synergy between AI and PM, to participate and submit their original work. We welcome not only contributions that empower PM with AI techniques, but also contributions that exploit their combination to solve more general problems in AI.
 
 
-[^1]: ABPMS research manifesto: https://doi.org/10.1145/3576047
+[^1]: [ABPMS research manifesto](https://doi.org/10.1145/3576047)
 [^2]: https://arxiv.org/abs/2204.11328
 [^3]: Gamble, R. 1998. Proceedings of the AAAI 1998 Workshop on Using AI for Knowledge Management and Business Process Re-engineering.
 [^4]: Drabble, B.; and Jarvis, P. 1999. Proceedings of the AAAI1999 Workshop on Agent-Based Systems in the Business Context.
