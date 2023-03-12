@@ -19,4 +19,5 @@ title: Program
       <td> </td>
       <td><em>Paper presentation - SESSION I</em> - Chair ...</td>
     </tr>
+   </tbody>
 </table>
