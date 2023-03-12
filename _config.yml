@@ -121,7 +121,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "pmai,pmai23,ijcai"
+keywords: "pmai,pmai23,ijcai"
 
 ######################################
 # --- Colours / background image --- #
@@ -167,7 +167,7 @@ footer-hover-col: "#0085A1"
 #gtag: "G-7CGTXXSGY0"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: "G-7CGTXXSGY0"
+google_analytics: "G-7CGTXXSGY0"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
