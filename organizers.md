@@ -23,7 +23,6 @@ title: Organizers
 - Ingo Weber - TU Munich, Germany 
 - Yves Lesperance - York University, Toronto, Canada
 - Massimo Mecella - Sapienza Univ Rome, Italy
-- Matthias Thimm - FernUniversität in Hagen, Germany
 - Kartik Talamadupula - IBM Research, Cambridge, USA
 - Artem Polyvyanyy - The University of Melbourne, Australia
 - Giuseppe de Giacomo - University of Oxford, UK
