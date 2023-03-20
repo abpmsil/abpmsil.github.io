@@ -15,11 +15,8 @@ title: Organizers
 - Michele Ianni - University of Calabria, Italy
 - Avigdor Gal - Technion — Israel Institute of Technology, Israel
 - Segev Shlomov - IBM Research, Haifa
-- Vatche Ishakian - IBM Research, Cambridge, USA
-- Vinod Muthusamy - IBM Research, Canada
 - Francesco Fuggitti - Sapienza Univ Rome, Italy
 - Marlon Dumas - University of Tartu, Estonia
-- Jana-Rebecca Rehse - University of Mannheim, Germany
 - Rafael Accorsi - Accenture / University of Tartu, Estonia
 - Diego Calvanese - Free University of Bozen-Bolzano, Italy
 - Dirk Fahland - Eindhoven University of Technology, the Netherlands
@@ -28,8 +25,9 @@ title: Organizers
 - Massimo Mecella - Sapienza Univ Rome, Italy
 - Matthias Thimm - FernUniversität in Hagen, Germany
 - Munindar Singh, North Carolina State University, USA
-- Yara Rizk - IBM Research, Cambridge, USA
 - Kartik Talamadupula - IBM Research, Cambridge, USA
 - Artem Polyvyanyy - The University of Melbourne, Australia
 - Giuseppe de Giacomo - University of Oxford, UK
 - Marco Montalli - Free University of Bozen-Bolzano, Italy
+- Sasha Rubin - The University of Sydney, Australia
+- Andreas Metzger - Universität Duisburg-Essen, Germany
