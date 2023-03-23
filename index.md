@@ -2,11 +2,11 @@
 layout: home
 title: PMAI23 @IJCAI
 ---
-
 {: style="text-align: center"} 
 ## 2nd International Workshop on Process Management in the AI era
+
 {: style="text-align: justify"}
-### Macao, S.A.R
+### Macao, S.A.R1
 
 {: style="text-align: justify"}
 Process Management (PM) is a multidisciplinary field that combines insights from operations management, computer science, 
