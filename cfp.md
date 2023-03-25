@@ -48,3 +48,7 @@ Submissions should be single blind so the names of the authors will be visible t
 ## Camera Ready Preparation
 
 The proceedings will be submitted to CEUR-WS.org for online publication. Papers will be published under a CC BY 4.0 license that will be included in an open-access proceedings volume of CEUR Workshop Proceedings, indexed by both Scopus and DBLP. Extended Abstracts are no longer indexed by dblp.org and the case of an abstract of a pre-published paper may require a permission by the copyright holder.
+
+## Special Issue
+
+Best papers will be invited for a special issue along with best papers from sister workshops in BPM: from [AI4BPM]() and [FM-BPM](). 
