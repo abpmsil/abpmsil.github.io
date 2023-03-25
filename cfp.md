@@ -30,7 +30,7 @@ Topics of interest for submission include, but are not limited to:
 
 ## Submission Details
 
-Submissions must be written in English, prepared using the new CEUR-ART 1-column style, formatted in PDF and submitted via [EasyChair]().
+Submissions must be written in English, prepared using the new CEUR-ART 1-column style, formatted in PDF and submitted via [EasyChair](https://easychair.org/conferences/?conf=pmai23ijcai).
 
 An Overleaf template for LaTeX users is available [here](https://www.overleaf.com/read/gwhxnqcghhdt). Alternatively, you can [download](https://ceur-ws.org/Vol-XXX/CEURART.zip) an offline version with the style files for both LaTeX and MS-Word.
 
