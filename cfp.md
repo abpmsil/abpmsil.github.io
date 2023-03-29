@@ -51,4 +51,4 @@ The proceedings will be submitted to CEUR-WS.org for online publication. Papers 
 
 ## Special Issue
 
-Best papers will be invited for a special issue along with best papers from sister workshops in BPM: from [AI4BPM](https://sites.google.com/unitn.it/ai4bpm-2023) and [FM-BPM](https://fm-bpm2023.github.io/). 
+Best papers will be invited for a special issue along with best papers from sister workshops in BPM: [AI4BPM](https://sites.google.com/unitn.it/ai4bpm-2023) and [FM-BPM](https://fm-bpm2023.github.io/). 
