@@ -25,7 +25,8 @@ Topics of interest for submission include, but are not limited to:
 - AI for process management over uncertain data and models
 - multiagent systems, strategic reasoning, game theory, and mechanism design for multi-party processes
 - multi-objective optimization, decision-making, and continuous improvement
-- goal and key performance indicator alignment in process management 
+- goal and key performance indicator alignment in process management
+- autonomous Digital Twins generation for process management
 - causal reasoning and process management 
 
 ## Submission Details
