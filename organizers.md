@@ -24,3 +24,4 @@ title: Organizers
 - Giuseppe de Giacomo - University of Oxford, UK
 - Andreas Metzger - Universität Duisburg-Essen, Germany
 - Jan	Mendling - Humboldt-Universität zu Berlin, Germany
+- Claudio Di Ciccio - Sapienza University of Rome, Italy
