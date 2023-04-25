@@ -8,8 +8,8 @@ title: Call for Papers
 | Abstract Submission       | May 1, 2023              |
 | Paper Submission Deadline | May 8, 2023              |
 | Paper Notification        | June 1, 2023             |
-| Workshop                  | August 20, 2023          |
-| Camera Ready              | TBD                      |
+| Workshop                  | August 20 (TBD), 2023    |
+| Camera Ready              | September 3, 2023        |
 
 Topics of interest for submission include, but are not limited to:
 - multi-perspective process models (including data, time, resources)
