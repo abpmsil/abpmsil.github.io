@@ -5,7 +5,7 @@ title: Call for Papers
 
 ## Important dates 
 
-| Abstract Submission       | ~May 1~ May 8 (*extended*), 2023              |
+| Abstract Submission       | ~~May 1~~ May 8 (**extended**), 2023              |
 | Paper Submission Deadline | May 8, 2023              |
 | Paper Notification        | June 1, 2023             |
 | Workshop                  | August 19-20 (TBD), 2023 |
