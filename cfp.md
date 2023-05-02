@@ -8,7 +8,7 @@ title: Call for Papers
 | Abstract Submission       | ~~May 1~~ May 8 (<span style="color:red">**extended**</span>), 2023              |
 | Paper Submission Deadline | ~~May 8~~ May 15 (<span style="color:red">**extended**</span>), 2023              |
 | Paper Notification        | June 1, 2023             |
-| Workshop                  | August 19-20 (TBD), 2023 |
+| Workshop                  | August 19, 2023 |
 | Camera Ready              | September 3, 2023        |
 
 Topics of interest for submission include, but are not limited to:
