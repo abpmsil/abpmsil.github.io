@@ -7,7 +7,9 @@ title: PMAI23 @IJCAI
 
 {: style="text-align: center"}
 ### Macao, S.A.R
-### August 19, 2023
+
+{: style="text-align: center"}
+#### August 19, 2023
 
 {: style="text-align: justify"}
 Process Management (PM) is a multidisciplinary field that combines insights from operations management, computer science, 
