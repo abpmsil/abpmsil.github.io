@@ -12,6 +12,7 @@ Member of the Steering Committee of the IEEE Task Force on Process Mining, Claud
 For more information, visit [here](http://claudio.diciccio.net/)
 
 ### Talk title: Automated Reasoning and Data Analytics for Declarative Process Mining
+
 {: style="text-align: justify"}
 A process describes the temporal evolution of a system. Capturing the rules that govern its control flow helps to understand the boundaries of its behaviour. With a declarative specification, a process is defined by those boundaries, expressed in terms of constraints rooted in temporal logic. The execution dynamics can vary as long as they do not violate such constraints, which specify the conditions that require or forbid the execution of actions. 
 Manually providing a complete list of rules that depict process behaviour consistently, correctly and precisely is a strenuous task. Process mining can offer valuable help to this end by resorting to the analysis of process data. 
