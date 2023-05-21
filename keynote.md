@@ -9,7 +9,7 @@ title: Keynote Speaker
 {: style="text-align: justify"}
 Claudio Di Ciccio is an associate professor at the Department of Computer Science of Sapienza University of Rome. Previously, he was an assistant professor at the Vienna University of Economics and Business (WU Vienna, Austria). He received a PhD in Computer Science and Engineering in 2013 at Sapienza. He obtained the national habilitations to associate professorship in the Information Systems and Computer Science areas. His research interests include Process Mining, Automated Reasoning, and Blockchains.
 Member of the Steering Committee of the IEEE Task Force on Process Mining, Claudio Di Ciccio has been co-chair of the first Blockchain Forum at BPM in 2019, the third Int. Conference on Process Mining in 2021, the twentieth Int. Conference on Business Process Management in 2022, and is general co-chair of the upcoming 5th Int. Conference on Process Mining (ICPM 2023).
-For more information, visit http://claudio.diciccio.net/
+For more information, visit [here](http://claudio.diciccio.net/)
 
 ### Talk title: Automated Reasoning and Data Analytics for Declarative Process Mining
 {: style="text-align: justify"}
