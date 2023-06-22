@@ -3,6 +3,7 @@ layout: page
 title: Program
 ---
 
+{: style="text-align: center"}
 <table style="font-size:80%">
   <tbody>
     <tr style="background-color:#FEF2CB">
